@@ -13,12 +13,12 @@ body{
     font-size: 1.6rem;
     height: 100vh;
     
-    background: green;
+    background-color:green;
     
     
 }
 body.color{
-    background:red;
+    background-color:red;
    
 }
 body *{
