@@ -13,13 +13,13 @@ body{
     font-size: 1.6rem;
     height: 100vh;
     
-    background: url(./image/natal.png) no-repeat   ;
-    background-size: cover;
+    background: green;
+    
     
 }
 body.color{
-    background: url(./image/28943.png)no-repeat bottom center scroll;
-    background-size: cover;
+    background:red;
+   
 }
 body *{
     font-family: 'Roboto', sans-serif;
@@ -381,14 +381,14 @@ main h1{
             align-items: center;
           }
           .image h1{
-            font-size: 4.0rem;
+            font-size: 3.5rem;
            margin-bottom: 1rem;
            margin-left: 2rem;
         }
         .image img{
             margin-top: -8rem;
-            width: 15rem;
-            height: 35rem;
+            width: 20rem;
+            height: 38rem;
             margin-right: 3rem;
         }
         .fundoImagem{
